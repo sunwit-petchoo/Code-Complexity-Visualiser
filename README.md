@@ -1,6 +1,6 @@
 # Code-Complexity-Visualiser
 
-This project is a part of research [Code Complexity Analyser and Visualiser for Novice Programmer](https://ieeexplore.ieee.org/abstract/document/9411562) that was published in 2020 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE). The web application will analyze uploaded JavaScript codes, and generate a code complexity results with visualization. The system provides statistic information of the code, complexity number with meaning and risk level for each complexity range, nested level and visualization based on analysing result. As a result, user will be able to extract information from their code and make improvement.
+This project is a part of research [Code Complexity Analyser and Visualiser for Novice Programmer](https://ieeexplore.ieee.org/abstract/document/9411562) that was published in 2020 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE). The web application will analyze uploaded JavaScript codes, and generate code complexity results with visualization. The system provides statistic information of the code, complexity number with meaning and risk level for each complexity range, nested level and visualization based on analysing result. As a result, user will be able to extract information from their code and make improvement.
 
 # Data Collection
 - Public JavaScript source code (JavaScript ASTs) from [Learning from "Big Code"](http://learnbigcode.github.io/datasets/)
